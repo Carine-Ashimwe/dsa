@@ -50,4 +50,4 @@ Results are saved in `sample_results` directory with filenames based on input fi
 - General exceptions are caught and printed.
 
 ### AUTHOR
-Afsa Umutoniwase
+Carine Ashimwe
